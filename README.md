@@ -76,6 +76,10 @@ dotnet run
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
+## Web Site
+
+"mylawyer-frh6bwdgapdrajgm.northeurope-01.azurewebsites.net"
+
 ## İletişim
 
 E-Posta = sadikcantuluk@gmail.com

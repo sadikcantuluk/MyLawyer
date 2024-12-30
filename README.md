@@ -78,7 +78,8 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ## Web Site
 
-"mylawyer-frh6bwdgapdrajgm.northeurope-01.azurewebsites.net"
+Uygulamayı deneyimlemek için:
+[Avukatım Yanımda](https://mylawyer-frh6bwdgapdrajgm.northeurope-01.azurewebsites.net)
 
 ## İletişim
 
